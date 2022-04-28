@@ -9,7 +9,7 @@ on:
     #- cron: "0 3 * * 3,6"
     - cron: "12 * * * *"
 
-
+ 
 
 jobs:
   build-deploy-release:
